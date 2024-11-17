@@ -1,6 +1,6 @@
 <template>
   <div class="min-vh-100 bg-light position-relative overflow-hidden font-inter">
-    <div class="position-fixed top-0 start-0 end-0 bg-primary z-40" v-if="isOpen">
+    <div class="position-fixed top-0 start-0 end-0 bg-orange-500 z-40" v-if="isOpen">
       <div class="d-flex justify-content-between">
         <div></div>
         <div class="p-4 text-xl text-white fw-bold">goodwill</div>
